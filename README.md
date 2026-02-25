@@ -4,7 +4,7 @@ This project focuses on creating an engaging front-end experience where users ca
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Coffee Shop Website is a front-end web development project designed to demonstrate:
 - Structured web page layout using **HTML**
@@ -15,7 +15,7 @@ The website provides a smooth and user-friendly browsing experience with clean d
 
 ---
 
-## 🗂️ Pages Included
+##  Pages Included
 
 - **Home** – Landing page with an introduction to the coffee shop  
 - **About** – Information about the shop, its story, and values  
@@ -26,7 +26,7 @@ The website provides a smooth and user-friendly browsing experience with clean d
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Responsive design for desktop, tablet, and mobile devices  
 - Clean and modern UI layout  
@@ -36,7 +36,7 @@ The website provides a smooth and user-friendly browsing experience with clean d
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5** – Structure of the website  
 - **CSS3** – Styling, layout, and responsiveness  
