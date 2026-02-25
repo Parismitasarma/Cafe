@@ -54,9 +54,8 @@ The website provides a smooth and user-friendly browsing experience with clean d
 ##  Author
 
   Parismita Sarma 
-  
-  Front-End Web Development Project
-
+  MCA Graduate
+  Front-End & Web Development Enthusiast
 ---
 
 
