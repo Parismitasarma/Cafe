@@ -43,3 +43,12 @@ The website provides a smooth and user-friendly browsing experience with clean d
 - **JavaScript** – Interactivity and animations  
 
 ---
+License
+
+This project is for educational purposes.
+Feel free to modify and enhance it.
+
+Author
+
+Parismita Sarma
+Front-End Web Development Project
